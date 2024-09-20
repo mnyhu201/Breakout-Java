@@ -1,4 +1,4 @@
-# Breakout-Java
+# Breakout game
 Breakout game made with Java, using JavaFX
 
 ## Difficulty level: 
